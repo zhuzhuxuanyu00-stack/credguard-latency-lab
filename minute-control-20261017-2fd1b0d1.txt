@@ -1,0 +1,2 @@
+CredGuard ordinary document collection control.
+This file contains no credentials.
