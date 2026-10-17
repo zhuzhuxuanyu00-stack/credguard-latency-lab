@@ -1,0 +1,17 @@
+[
+{
+  "GITLAB_TOKEN": "${ENV_CREDENTIAL}"
+},
+{
+  "GITLAB_TOKEN": "your_credential"
+},
+{
+  "GITLAB_TOKEN": "REDACTED"
+},
+{
+  "GITLAB_TOKEN": "<redacted>"
+},
+{
+  "GITLAB_TOKEN": "{{ secrets.CREDENTIAL }}"
+}
+]

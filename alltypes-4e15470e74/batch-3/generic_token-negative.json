@@ -1,0 +1,17 @@
+[
+{
+  "SERVICE_TOKEN": "${ENV_CREDENTIAL}"
+},
+{
+  "SERVICE_TOKEN": "your_credential"
+},
+{
+  "SERVICE_TOKEN": "REDACTED"
+},
+{
+  "SERVICE_TOKEN": "<redacted>"
+},
+{
+  "SERVICE_TOKEN": "{{ secrets.CREDENTIAL }}"
+}
+]

@@ -1,0 +1,17 @@
+[
+{
+  "DATABASE_URL": "postgresql://labuser10:2LljsSYzRp5iKbkLkkGaWHIOcN74wHQH@db.invalid:5432/lab"
+},
+{
+  "DATABASE_URL": "mysql://labuser11:tOXiKQZ7hvVm7k24DC5mZ7SCWAc5oVDq@db.invalid:5432/lab"
+},
+{
+  "DATABASE_URL": "mongodb://labuser12:vTiXDoOKab8z0lBTFMnbMR42kYi89LJR@db.invalid:5432/lab"
+},
+{
+  "DATABASE_URL": "redis://labuser13:t5M2AQv4LhdnTHDSO4kzRY5NVi3ibPzv@db.invalid:5432/lab"
+},
+{
+  "DATABASE_URL": "mssql://labuser14:8RuORwoLZ9lRXUdRwwYfxOW2AtTSSidh@db.invalid:5432/lab"
+}
+]

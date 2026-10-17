@@ -1,0 +1,17 @@
+[
+{
+  "PYPI_TOKEN": "${ENV_CREDENTIAL}"
+},
+{
+  "PYPI_TOKEN": "your_credential"
+},
+{
+  "PYPI_TOKEN": "REDACTED"
+},
+{
+  "PYPI_TOKEN": "<redacted>"
+},
+{
+  "PYPI_TOKEN": "{{ secrets.CREDENTIAL }}"
+}
+]

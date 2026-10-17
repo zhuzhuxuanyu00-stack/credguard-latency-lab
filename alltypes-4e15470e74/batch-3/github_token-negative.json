@@ -1,0 +1,17 @@
+[
+{
+  "GITHUB_TOKEN": "${ENV_CREDENTIAL}"
+},
+{
+  "GITHUB_TOKEN": "your_credential"
+},
+{
+  "GITHUB_TOKEN": "REDACTED"
+},
+{
+  "GITHUB_TOKEN": "<redacted>"
+},
+{
+  "GITHUB_TOKEN": "{{ secrets.CREDENTIAL }}"
+}
+]

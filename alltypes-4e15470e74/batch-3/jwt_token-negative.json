@@ -1,0 +1,17 @@
+[
+{
+  "JWT_TOKEN": "${ENV_CREDENTIAL}"
+},
+{
+  "JWT_TOKEN": "your_credential"
+},
+{
+  "JWT_TOKEN": "REDACTED"
+},
+{
+  "JWT_TOKEN": "<redacted>"
+},
+{
+  "JWT_TOKEN": "{{ secrets.CREDENTIAL }}"
+}
+]

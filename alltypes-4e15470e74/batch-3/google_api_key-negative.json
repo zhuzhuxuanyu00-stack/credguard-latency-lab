@@ -1,0 +1,17 @@
+[
+{
+  "GOOGLE_API_KEY": "${ENV_CREDENTIAL}"
+},
+{
+  "GOOGLE_API_KEY": "your_credential"
+},
+{
+  "GOOGLE_API_KEY": "REDACTED"
+},
+{
+  "GOOGLE_API_KEY": "<redacted>"
+},
+{
+  "GOOGLE_API_KEY": "{{ secrets.CREDENTIAL }}"
+}
+]
