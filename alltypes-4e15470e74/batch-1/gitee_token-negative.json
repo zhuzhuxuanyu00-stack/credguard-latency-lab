@@ -1,0 +1,17 @@
+[
+{
+  "GITEE_ACCESS_TOKEN": "${ENV_CREDENTIAL}"
+},
+{
+  "GITEE_ACCESS_TOKEN": "your_credential"
+},
+{
+  "GITEE_ACCESS_TOKEN": "REDACTED"
+},
+{
+  "GITEE_ACCESS_TOKEN": "<redacted>"
+},
+{
+  "GITEE_ACCESS_TOKEN": "{{ secrets.CREDENTIAL }}"
+}
+]

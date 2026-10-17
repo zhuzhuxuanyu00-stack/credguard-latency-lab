@@ -1,0 +1,17 @@
+[
+{
+  "SLACK_TOKEN": "${ENV_CREDENTIAL}"
+},
+{
+  "SLACK_TOKEN": "your_credential"
+},
+{
+  "SLACK_TOKEN": "REDACTED"
+},
+{
+  "SLACK_TOKEN": "<redacted>"
+},
+{
+  "SLACK_TOKEN": "{{ secrets.CREDENTIAL }}"
+}
+]

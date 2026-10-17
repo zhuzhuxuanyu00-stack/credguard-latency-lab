@@ -1,0 +1,17 @@
+[
+{
+  "TENCENTCLOUD_SECRET_ID": "${ENV_CREDENTIAL}"
+},
+{
+  "TENCENTCLOUD_SECRET_ID": "your_credential"
+},
+{
+  "TENCENTCLOUD_SECRET_ID": "REDACTED"
+},
+{
+  "TENCENTCLOUD_SECRET_ID": "<redacted>"
+},
+{
+  "TENCENTCLOUD_SECRET_ID": "{{ secrets.CREDENTIAL }}"
+}
+]

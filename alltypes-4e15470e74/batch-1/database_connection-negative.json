@@ -1,0 +1,17 @@
+[
+{
+  "DATABASE_URL": "${ENV_CREDENTIAL}"
+},
+{
+  "DATABASE_URL": "your_credential"
+},
+{
+  "DATABASE_URL": "REDACTED"
+},
+{
+  "DATABASE_URL": "<redacted>"
+},
+{
+  "DATABASE_URL": "{{ secrets.CREDENTIAL }}"
+}
+]

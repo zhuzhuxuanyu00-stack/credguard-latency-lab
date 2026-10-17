@@ -1,0 +1,17 @@
+[
+{
+  "Authorization": "Bearer ${ENV_CREDENTIAL}"
+},
+{
+  "Authorization": "Bearer your_credential"
+},
+{
+  "Authorization": "Bearer REDACTED"
+},
+{
+  "Authorization": "Bearer <redacted>"
+},
+{
+  "Authorization": "Bearer {{ secrets.CREDENTIAL }}"
+}
+]

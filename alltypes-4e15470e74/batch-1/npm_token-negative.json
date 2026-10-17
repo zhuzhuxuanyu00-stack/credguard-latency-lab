@@ -1,0 +1,17 @@
+[
+{
+  "NPM_TOKEN": "${ENV_CREDENTIAL}"
+},
+{
+  "NPM_TOKEN": "your_credential"
+},
+{
+  "NPM_TOKEN": "REDACTED"
+},
+{
+  "NPM_TOKEN": "<redacted>"
+},
+{
+  "NPM_TOKEN": "{{ secrets.CREDENTIAL }}"
+}
+]
