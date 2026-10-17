@@ -1,0 +1,17 @@
+[
+{
+  "ALIYUN_ACCESS_KEY_ID": "${ENV_CREDENTIAL}"
+},
+{
+  "ALIYUN_ACCESS_KEY_ID": "your_credential"
+},
+{
+  "ALIYUN_ACCESS_KEY_ID": "REDACTED"
+},
+{
+  "ALIYUN_ACCESS_KEY_ID": "<redacted>"
+},
+{
+  "ALIYUN_ACCESS_KEY_ID": "{{ secrets.CREDENTIAL }}"
+}
+]

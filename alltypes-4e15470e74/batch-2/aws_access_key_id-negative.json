@@ -1,0 +1,17 @@
+[
+{
+  "AWS_ACCESS_KEY_ID": "${ENV_CREDENTIAL}"
+},
+{
+  "AWS_ACCESS_KEY_ID": "your_credential"
+},
+{
+  "AWS_ACCESS_KEY_ID": "REDACTED"
+},
+{
+  "AWS_ACCESS_KEY_ID": "<redacted>"
+},
+{
+  "AWS_ACCESS_KEY_ID": "{{ secrets.CREDENTIAL }}"
+}
+]

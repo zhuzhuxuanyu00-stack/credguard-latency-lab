@@ -1,0 +1,17 @@
+[
+{
+  "AZURE_STORAGE_CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=unbounde0dd8497;AccountKey=zNkUljz8v2j1SGKwyXIRADuYuo5plFUnX/Zn/byyu2zSw5IWyBA5Ydyt5dcaKU5VVNdtxlT2SIcCBc1/ZWJPGQ==;EndpointSuffix=core.windows.net"
+},
+{
+  "AZURE_STORAGE_CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=unbound42e173a7;AccountKey=scUX0WuNPJyJNdY+iFRGB3ynBuf9EfJBg5Q8t2B4tunzQAbB1on8Q3Be3ZR2odgQUaf0WCS05GAr6TRiavt+KQ==;EndpointSuffix=core.windows.net"
+},
+{
+  "AZURE_STORAGE_CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=unbound5ec6de29;AccountKey=B+40r0jWeYYM6OZu5Gl4mvFBu74oNkzCZ5ATcjsluiAr7AU7UM2lMX7GYd/YyMKGJWbfykhRYP95re6afmuSVg==;EndpointSuffix=core.windows.net"
+},
+{
+  "AZURE_STORAGE_CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=unbound78964bf9;AccountKey=Fe/Fg/9BVMX+fHHXFVRqXnRvtOkeQqwPVUed3WBhSB1rlwA0PHb9iq58pnfGJE9YInqfkaTstEv6hjxxYQOUqw==;EndpointSuffix=core.windows.net"
+},
+{
+  "AZURE_STORAGE_CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=unbound01b93179;AccountKey=eE6yfvdZIdCG6reXdq9JzndyjjHMWbqnlE/r7dsrVTmzAt7bgHmihCpPT3nyUmXamv7bM2xJxlbekqiNFuEO9g==;EndpointSuffix=core.windows.net"
+}
+]

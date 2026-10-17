@@ -1,0 +1,17 @@
+[
+{
+  "Authorization": "Basic ${ENV_CREDENTIAL}"
+},
+{
+  "Authorization": "Basic your_credential"
+},
+{
+  "Authorization": "Basic REDACTED"
+},
+{
+  "Authorization": "Basic <redacted>"
+},
+{
+  "Authorization": "Basic {{ secrets.CREDENTIAL }}"
+}
+]

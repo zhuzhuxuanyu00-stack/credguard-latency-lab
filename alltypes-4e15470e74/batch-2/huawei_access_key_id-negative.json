@@ -1,0 +1,17 @@
+[
+{
+  "HUAWEICLOUD_ACCESS_KEY_ID": "${ENV_CREDENTIAL}"
+},
+{
+  "HUAWEICLOUD_ACCESS_KEY_ID": "your_credential"
+},
+{
+  "HUAWEICLOUD_ACCESS_KEY_ID": "REDACTED"
+},
+{
+  "HUAWEICLOUD_ACCESS_KEY_ID": "<redacted>"
+},
+{
+  "HUAWEICLOUD_ACCESS_KEY_ID": "{{ secrets.CREDENTIAL }}"
+}
+]
