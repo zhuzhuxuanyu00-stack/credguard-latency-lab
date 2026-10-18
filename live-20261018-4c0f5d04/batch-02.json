@@ -1,0 +1,45 @@
+{
+  "notice": "SYNTHETIC TEST FIXTURES ONLY. Random invented values with no service permissions. Never use for authentication.",
+  "run": "live-20261018-4c0f5d04",
+  "batch": 2,
+  "positive_samples": [
+    {
+      "api_key": "Cg9!WnWDn3rey9dYBL0KUl-XT0wj6V90"
+    },
+    {
+      "db_password": "Cg9!PkgHXOQr5wiK4Mwm61SIhlkkWta6"
+    },
+    {
+      "client_secret": "Cg9!WL-lqIcBKPj-i9VMlfQj0F2bcu3c"
+    },
+    {
+      "service_token": "Cg9!bkrOkD9mUFJ5go8IkNR9V03jEzXW"
+    },
+    {
+      "signing_secret": "Cg9!r7TtlROnfzAg3wAYbu9dBP6ECqxK"
+    },
+    {
+      "password": "Cg9!GOtjs9y5_HB3yTCu2tt_cWKxJ5xz"
+    }
+  ],
+  "nonsecret_controls": [
+    {
+      "api_key": "${CG_TEST_API_KEY}"
+    },
+    {
+      "db_password": "${CG_TEST_DB_PASSWORD}"
+    },
+    {
+      "client_secret": "${CG_TEST_CLIENT_SECRET}"
+    },
+    {
+      "service_token": "${CG_TEST_SERVICE_TOKEN}"
+    },
+    {
+      "signing_secret": "${CG_TEST_SIGNING_SECRET}"
+    },
+    {
+      "password": "${CG_TEST_PASSWORD}"
+    }
+  ]
+}
